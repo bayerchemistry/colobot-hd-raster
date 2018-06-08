@@ -12,3 +12,5 @@ Feel free to remix my textures. You can change details, colors and many other st
 
 <h2>Consider about supporting our project of remake this marvelous game.</h2>
 We, the Terranova Team (special force of International Colobot Community), awaits for every talented person, who wanna help. We need graphic designers, engineers, programists, sound makers and composers. More info awaits here https://colobot.info/icc/. Became one of us, and <b>MAKE COLOBOT GREAT AGAIN</b>!
+
+<h6>This project is not finished yet. Some textures may be not finished or even missing.</h6>
