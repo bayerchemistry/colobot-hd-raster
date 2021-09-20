@@ -9,4 +9,7 @@ With HD textures you be able to discover planets and objects again. Just stop fo
 <h2>Consider about supporting our project of remake this marvelous game.</h2>
 We, the Terranova Team (special force of International Colobot Community), awaits for every talented person, who wanna help. We need graphic designers, engineers, programists, sound makers and composers. More info awaits here https://colobot.info/icc/. Became one of us, and <b>MAKE COLOBOT GREAT AGAIN</b>!
 
+<h2>How to install</h2>
+Place all files in "data" in main Colobot: Gold directory. Accept overwrite prompt to changes take place.
+
 <h6>This project is not finished yet. Some textures may be not finished or even missing.</h6>
